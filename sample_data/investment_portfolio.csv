@@ -1,0 +1,10 @@
+Asset,Type,Purchase_Date,Purchase_Price,Current_Value,Annual_Return
+AAPL,Stock,2023-01-15,150.25,180.50,20.13
+GOOGL,Stock,2023-02-01,2100.75,2450.25,16.64
+BTC,Cryptocurrency,2023-03-10,42000.00,65000.00,54.76
+VTI,ETF,2023-01-20,195.50,220.75,12.92
+VXUS,ETF,2023-02-15,55.25,58.90,6.61
+Real Estate Fund,REIT,2023-04-01,85.75,92.25,7.58
+Corporate Bond Fund,Bond,2023-03-15,100.00,103.50,3.50
+Government Bond,Bond,2023-05-01,98.50,99.75,1.27
+Gold ETF,Commodity,2023-06-01,175.25,185.50,5.85 
